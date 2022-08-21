@@ -1,2 +1,2 @@
-# An-lise_estat-stica
+# Analise_estatastica
 Análises estatísticas descritiva e diferencial
